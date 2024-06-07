@@ -24,5 +24,11 @@ SOCIAL IMPACT ANALYSIS
 
 • Investigate the contribution of diverse types of vehicles to the total number of accidents.
 
+LOAD THE DATA
 
+link: https://www.kaggle.com/datasets/aryakittukrishnasai/road-accidents-in-india
+
+DATA UNDERSTANDING
+
+The "Road Accidents in India" dataset provides comprehensive information on road accidents, including details such as accident location, date, time, severity, vehicles involved, weather conditions, road conditions, collision types, and victim details. This dataset contains thousands of records capturing accidents across various regions in India. Initial exploration involves checking data types, identifying missing values, and understanding the distribution of accidents by severity, time, and factors contributing to accidents. Visualizations will help in visualizing accident distributions, severity levels, time trends, and factors such as weather conditions and collision types. Further analysis aims to extract insights to inform road safety measures and accident prevention strategies, ultimately contributing to safer roads in India.
 
