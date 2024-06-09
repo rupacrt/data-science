@@ -32,3 +32,14 @@ DATA UNDERSTANDING
 
 The "Road Accidents in India" dataset provides comprehensive information on road accidents, including details such as accident location, date, time, severity, vehicles involved, weather conditions, road conditions, collision types, and victim details. This dataset contains thousands of records capturing accidents across various regions in India. Initial exploration involves checking data types, identifying missing values, and understanding the distribution of accidents by severity, time, and factors contributing to accidents. Visualizations will help in visualizing accident distributions, severity levels, time trends, and factors such as weather conditions and collision types. Further analysis aims to extract insights to inform road safety measures and accident prevention strategies, ultimately contributing to safer roads in India.
 
+DRIVE LINKS
+
+Data Loading and extraction link: https://drive.google.com/file/d/1nNvcarVAWpdJhUKiBWAvNQK9OVBnoQM-/view?usp=sharing 
+
+Data Visualization link: https://drive.google.com/file/d/1Y8jSpnVZe72kJa7p_9pMDXb4Kst48jyq/view?usp=sharing
+
+Dashboard link: https://drive.google.com/file/d/1xnK2K01mDEFwh3PcPvswqZ2V12G4RVsV/view?usp=drive_link
+
+Story telling Link: https://drive.google.com/file/d/17jcLEOWszMJ-Dlyg0ocIHVleRDUkBFQM/view?usp=sharing
+
+
